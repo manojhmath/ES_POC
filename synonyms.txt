@@ -1,0 +1,121 @@
+laryngeal and base of tongue carcinoma,lbotc
+laryngeal electromyography,lemg
+laryngeal intraepithelial neoplasia,lin
+laryngeal mask,lm
+laryngeal melanosis,lm
+laryngeal muscle,lm
+laryngeal squamous cell carcinoma,lscc
+laryngeal tracheal anesthesia,lta
+laryngeal tube,lt
+laryngeal vestibule,lv
+laryngeal videostroboscopy,lvs
+laryngectomy,lg
+laryngitis,laryn
+laryngofissure,lf
+laryngology,lar
+laryngoonychocutaneous syndrome,locs
+laryngopharyngeal,lp
+laryngopharyngeal reflux,lpr
+laryngopharyngeal sensory discrimination testing,lpsdt
+laryngopharyngeal sensory stimulation,lpss
+laryngoscopy,laryn
+laryngotracheal anesthesia,lta
+laryngotracheal applicator,lta
+laryngotracheal reconstruction,ltr
+laryngotracheal stenosis,lts
+laryngotracheobronchitis,ltb
+laryngotracheoesophageal,lte
+laryngotracheoplasty,ltp
+laryngovideostroboscopy,lvs
+larynx,lar,lx
+larynx-associated lymphoid tissue,lalt
+laser adjustable silicone gastric banding,lasgb
+laser anesthesia device,lad
+laser angioplasty,la
+laser atomization resonance ionization spectroscopy,laris
+laser balloon angioplasty,lba
+laser bullectomy,lb
+laser cell and flare meter,lcfm
+laser coagulation vaporization procedure,lcvp
+laser correlational spectroscopy,lcs
+laser disc decompression,ldd
+laser Doppler,ld
+laser Doppler anemometry,lda
+laser Doppler flowmetry,ldf
+laser Doppler flux,ldf
+laser Doppler fluxmetry,ldf
+laser Doppler perfusion monitoring,ldpm
+laser Doppler velocimetry,ldv
+laser flare meter,lfm
+laser image custom arthroplasty,lica
+paternal grandmother,pgm
+paternal grandparent,pgp
+paternal great-grandfather,pggf
+paternal great-grandmother,pggm
+paternal history of alcoholism,pha
+paternal meiosis 1,pmi
+paternal meiosis 2,pmii
+paternal origin,pat.
+paternal uncle,pu
+paternally contributing [strain, genetics],p
+paternity index,pi
+pathogen,path.
+pathogen-associated molecular pattern,pamp
+pathogenesis,path.
+pathogenetic,path.
+pathologic,path,path.,pa,pth
+pathologic consultation,pc
+pathologic fracture,path. fx
+pathologic gambling disorder,pgd
+pathologic spontaneous activity,psa
+pathologic stage,ps
+pathological,p
+pathological demand avoidance,pda
+pathological gambling,pg
+pathological habit disorder,phd
+pathological tumor, nodes, metastases [TNM pathologic classification],ptnm
+pathologically confirmed remission,pcr
+dissociated double hypertropia,ddh,ddht
+dissociated horizontal deviation,dhd
+dissociated hypertropia,dht
+dissociated vertical divergence,dvd
+dissociation constant,kd
+dissociation constant of a base,kb
+dissociation constant of an acid,ka
+dissociation enhanced lanthanide fluoroimmunoassay,delfia
+dissociation of enzyme-inhibitor complex,ki
+dissociative disorder not otherwise specified,ddnos
+dissociative disorders interview schedule,ddis
+dissociative experiences scale,des
+dissociative hysterical neurosis,dhn
+dissociative identity disorder,did
+dissolve,dslv
+dissolved,dissd
+dissolved carbon dioxide,dco2
+dissolved organic matter,dom
+dissolved oxygen,do
+dissolved oxygen deficit,dod
+dissolved solids,ds
+distal,d,dist
+distal acquired demyelinating symmetrical [neuropathy],dads
+distal arthrogryposis,da
+distal arthrogryposis type 1—2,da1-da2
+distal articular set angle,dasa
+antihemophilic globulin,ahg
+base of support,bos
+base of skull,bos
+reaction half-time,t12
+reaction level scale,rls
+reaction of adolescents to traumatic stress,rats
+reaction of adolescents to traumatic stress inventory,rats
+reaction of degeneration,dr,ea r,rd
+rectal temperature,rt,r/t
+red blood cell-to-plasma ratio,rbc:p
+reexamination,re-x
+reflection coefficient,σ,rc
+renal vein-to-renin activity ratio,rv:ra
+renal:systemic renin index,rsri
+renin-angiotensin-aldosterone [system],raa
+replication error negative,rer-
+replication error positive,rer+
+respiratory intensive care unit,ricu
